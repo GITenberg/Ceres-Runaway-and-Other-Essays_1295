@@ -1,0 +1,33 @@
+_repo: Ceres-Runaway-and-Other-Essays_1295
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Meynell, Alice
+    aliases:
+    - Meynell, Alice Christiana Thompson
+    - Thompson, A. C. (Alice Christiana)
+    birthdate: 1847
+    deathdate: 1922
+    gutenberg_agent_id: '546'
+    url: http://www.gutenberg.org/2009/agents/546
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Meynell
+description: ''
+gutenberg_issued: '1998-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1295'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English essays'
+- GITenberg
+tableOfContents: Ceres' runaway -- A vanquished man -- A northern fancy -- Laughter
+  -- Harlequin Mercutio -- The little language -- Anima Pellegrina! -- The sea wall
+  -- The daffodil -- Addresses -- The audience -- Tithonus -- The tow path -- The
+  tethered constellations -- Popular burlesque -- Dry autumn -- The plaid -- Two burdens
+  -- The unready -- The child of tumult -- The child of subsiding tumult.
+title: Ceres' Runaway, and Other Essays
+url: http://www.gutenberg.org/ebooks/1295
